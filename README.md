@@ -1,2 +1,5 @@
 # Heart-build
-2021-01 Intro to Sonic Art Final Project
+- 2021-01 Intro to Sonic Art Final Project으로 쓸 뻔 했던 프로젝트
+- [공공 데이터 포탈](www.data.go.kr)에 있는 [보건복지부 국립정신건강센터_외래환자기초정보](https://www.data.go.kr/data/15059738/fileData.do?recommendDataYn=Y)의 데이터 2018년부터 2020년까지를 분석, 결과치를 데이터를 소리로 표현하는 소니피케이션을 진행하려 했었음.
+- 참고한 데이터는 '국립정신건강센터의 외래환자 기초정보 데이터로, 외래환자의 연령대, 성별, 상병코드, 상병명, 보험유형, 진료연도, 진료'를 담고 있음.
+- 봄/여름/가을/겨울로 나눠 기분(정동)장애(질병코드: F30 - F39)을 가진 사람들의 현황을 파악해 진행하다 중단.
